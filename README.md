@@ -19,3 +19,10 @@ Directory Structure bash Copy Edit /quiz-app |-- /public | |-- index.html # Root
 Quiz API: https://api.jsonserve.com/Uw5CrX In case of any issue fetching data, fallback static data will be used instead.
 
 Future Enhancements Question Shuffle: Randomize questions to make each quiz session unique. User Authentication: Implement user login to save quiz scores. Leaderboard: Add a leaderboard to compare scores among users. Advanced Timer: Implement an advanced timer for each individual question. Troubleshooting API Errors: If the quiz data fails to load, the app will use fallback static data. Ensure you are connected to the internet when fetching data. Slow Performance: If you experience slow performance or the app doesn't load quickly, try refreshing your browser or clearing the cache. License This project is open-source and available under the MIT License.
+
+// Walkthrough UI of the QuizApp
+https://github.com/user-attachments/assets/7cfc850a-8ae2-4f9e-aaab-71f6fd69b9e5
+
+//Walkthrough with the Code of the QuizApp
+https://github.com/user-attachments/assets/d0cc9402-ff9b-4dc5-a7b7-a8da21cbf8a8
+
